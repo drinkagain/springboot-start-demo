@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "jiuxian",
+      "type": "com.jiuxian.properties.DemoProperties",
+      "sourceType": "com.jiuxian.properties.DemoProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "jiuxian.code",
+      "type": "java.lang.Integer",
+      "sourceType": "com.jiuxian.properties.DemoProperties"
+    },
+    {
+      "name": "jiuxian.message",
+      "type": "java.lang.String",
+      "sourceType": "com.jiuxian.properties.DemoProperties"
+    }
+  ],
+  "hints": []
+}
